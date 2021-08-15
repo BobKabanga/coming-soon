@@ -26,7 +26,7 @@ a{
 	font-family: courier;
 	font-size: 160%;
 	margin: 110px 10px 20px 50px;
-	border: 2px solid; #ff8796;
+	border: 2px solid;
 }
 .kalimat2 {
 	text-align: center;
@@ -60,5 +60,4 @@ a{
 	color: white;
 	text-align: center;
 	margin: 0px 50px 50px 10px;
-
 }
